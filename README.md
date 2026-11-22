@@ -1,2 +1,5 @@
-# HTML_Complete_Course
-All code and notes are provided.
+- **Learn HTML through simple examples and hands-on practice.**
+- **HTML tutorials, code examples, and practice projects for beginners.**
+- **A beginner-friendly collection of HTML lessons and examples.**
+- **Code and practice files from my YouTube HTML tutorial series.**
+- **Learn the fundamentals of HTML with clear examples and exercises.**
